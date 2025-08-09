@@ -1,0 +1,10 @@
+# Alternative requirements for cloud deployment
+# Use tensorflow-cpu for faster, lighter deployment
+tensorflow-cpu==2.19.0
+streamlit>=1.37.0
+numpy>=1.24.0,<2.0.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+plotly>=5.0.0
+Pillow>=9.0.0
+scikit-learn>=1.1.0
