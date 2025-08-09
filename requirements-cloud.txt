@@ -1,6 +1,6 @@
 # Alternative requirements for cloud deployment
 # Use tensorflow-cpu for faster, lighter deployment
-tensorflow-cpu==2.19.0
+tensorflow-cpu>=2.16.2
 streamlit>=1.37.0
 numpy>=1.24.0,<2.0.0
 pandas>=1.5.0
